@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+	<adherent>
+		<nom>ZARAGOSA</nom>
+		<prenom>Yoann</prenom>
+		<email>yoyo@gmail.com</email>
+	</adherent>
+	<adherent>
+		<nom>MINNE</nom>
+		<prenom>Ewenn</prenom>
+		<email>Ewenn@gmail.com</email>
+	</adherent>
+	<adherent>
+		<nom>BONALY</nom>
+		<prenom>David</prenom>
+		<email>Dav@gmail.com</email>
+	</adherent>
+	<adherent>
+		<nom>EON</nom>
+		<prenom>Youenn</prenom>
+		<email>yoyo@gmail.com</email>
+	</adherent>
+</group>
