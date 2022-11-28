@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <group>
 	<adherent>
+		<ID>1</ID>
 		<nom>ZARAGOSA</nom>
 		<prenom>Yoann</prenom>
-		<email>yoyo@gmail.com</email>
 	</adherent>
 	<adherent>
+		<ID>2</ID>
 		<nom>MINNE</nom>
 		<prenom>Ewenn</prenom>
-		<email>Ewenn@gmail.com</email>
 	</adherent>
 	<adherent>
+		<ID>3</ID>
 		<nom>BONALY</nom>
 		<prenom>David</prenom>
-		<email>Dav@gmail.com</email>
 	</adherent>
 	<adherent>
+		<ID>4</ID>
 		<nom>EON</nom>
 		<prenom>Youenn</prenom>
-		<email>yoyo@gmail.com</email>
 	</adherent>
 </group>

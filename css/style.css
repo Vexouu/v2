@@ -714,6 +714,44 @@ main#ContMain{
 	color: white;
 }
 
+#IdentificationContainer{
+	margin-top: 5%;
+	margin: auto;
+	width: 700px;
+	height: 850px;
+	border: solid;
+	border-radius: 20px;
+	border-color: #008349;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+}
+
+#ContChoice{
+	display: flex;
+	flex-direction: column;
+	
+}
+
+#choice{
+	display: flex;
+	flex-direction: row;
+	justify-content:center;
+	gap: 20%;
+	align-items: center;
+}
+
+#calcul{
+	color: white;
+	margin: 5%;
+	text-align: right;
+	text-align-last: center;
+}
+
+#BDDContainer{
+	color: white;
+}
+
 .input{
 	width: 300px;
 	height: 20px;
